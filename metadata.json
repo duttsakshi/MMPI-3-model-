@@ -1,0 +1,7 @@
+{
+  "name": "MMPI-3 Assessment Tool",
+  "description": "A professional assessment tool for MMPI-3 with 335 items, scoring tables, and text-to-speech support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
